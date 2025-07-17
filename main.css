@@ -605,7 +605,7 @@
     max-width: 100%;
     height: auto;
     font-size: 2rem;
-    margin-top: 27rem;
+    margin-top: 5rem;
   }
 }
 
@@ -1358,7 +1358,7 @@
     margin-left: 2rem;
     margin-right: auto;
     font-size: 25px;
-    margin-top: 20rem;
+    margin-top: 6rem;
   }
 }
 @media (min-width: 600px) and (max-width: 1024px) {
